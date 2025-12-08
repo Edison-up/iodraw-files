@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17" pages="6">
   <diagram name="添加人员" id="0">
-    <mxGraphModel dx="236801" dy="276865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="240109" dy="279201" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -66,6 +66,11 @@
         </mxCell>
         <mxCell id="4irBHRA7bBKawGAg2kYX-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="-C-VST0zyXvUgYNYKSul-5" target="-C-VST0zyXvUgYNYKSul-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="TBQQ20EFR6dQ209YT1T--34" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4irBHRA7bBKawGAg2kYX-13">
+          <mxGeometry x="-0.0543" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="-C-VST0zyXvUgYNYKSul-5" value="进行安全认证" style="rhombus;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#fff7e6" parent="1" vertex="1">
           <mxGeometry x="80" y="460" width="120" height="80" as="geometry" />
