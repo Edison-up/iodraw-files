@@ -19,7 +19,7 @@
             <mxPoint x="410" y="230" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="0_OGk8l2g1mxB0rReBTw-5" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="0_OGk8l2g1mxB0rReBTw-5" value="基础设置管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="390" y="140" width="110" height="70" as="geometry" />
         </mxCell>
         <mxCell id="0_OGk8l2g1mxB0rReBTw-6" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
