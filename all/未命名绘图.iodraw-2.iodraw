@@ -188,8 +188,8 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-62" value="记录归档" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="2293" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-64" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="168" y="2201" width="120" height="60" as="geometry" />
+        <mxCell id="KVttq13qiVhOrANyo3vE-64" value="重新执行" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="163" y="2293" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
