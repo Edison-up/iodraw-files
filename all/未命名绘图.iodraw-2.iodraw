@@ -104,9 +104,6 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-34" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="430" y="837" width="100" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-25" target="KVttq13qiVhOrANyo3vE-34">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-32" target="KVttq13qiVhOrANyo3vE-34">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
