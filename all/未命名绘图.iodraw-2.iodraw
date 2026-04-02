@@ -86,8 +86,8 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-25" value="继续居住" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="310" y="388" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-28" value="提出退住申请" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="531" y="528" width="120" height="60" as="geometry" />
+        <mxCell id="KVttq13qiVhOrANyo3vE-28" value="退住审批" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="531" y="495" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
