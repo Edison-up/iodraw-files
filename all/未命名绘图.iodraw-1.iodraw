@@ -80,7 +80,18 @@
           <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-29" target="7P9YLE2FsMM5Xcv8ukVH-4">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1137" y="778" />
+              <mxPoint x="1137" y="347" />
+              <mxPoint x="660" y="347" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-35" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P9YLE2FsMM5Xcv8ukVH-34">
+          <mxGeometry x="-0.0472" y="-4" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-29" value="是否结束操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="593.5" y="748" width="133" height="60" as="geometry" />
