@@ -113,8 +113,14 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-37" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="851" y="1646" width="100" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-38" target="7P9YLE2FsMM5Xcv8ukVH-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-38" value="登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="1786" width="120" height="60" as="geometry" />
+          <mxGeometry x="841" y="1747" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-40" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="810" y="1877" width="131" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
