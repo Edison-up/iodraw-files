@@ -208,7 +208,7 @@
           <mxGeometry x="653.5" y="3149" width="127" height="58" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-70" value="超级管理员登陆" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="657" y="3286" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="3258" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
