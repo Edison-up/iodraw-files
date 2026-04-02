@@ -31,7 +31,7 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-10" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="993" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-11" value="服务管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-12" value="床位管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
