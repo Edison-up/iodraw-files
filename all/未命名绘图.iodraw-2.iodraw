@@ -122,8 +122,8 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-40" value="评估老人身体状况" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="1307" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-42" value="评估老人身体状况" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="1447" width="120" height="60" as="geometry" />
+        <mxCell id="KVttq13qiVhOrANyo3vE-42" value="确定护理等级" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
