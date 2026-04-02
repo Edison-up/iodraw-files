@@ -22,7 +22,7 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-6" value="系统用户管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-8" value="入住管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-8" value="入退管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="386" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-9" value="护理管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
