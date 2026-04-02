@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="bbpUEZFhvpK_btv3ATWl">
-    <mxGraphModel dx="1160" dy="730" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
+    <mxGraphModel dx="1160" dy="730" grid="0" gridSize="10" guides="1" tooltips="1" connect="0" arrows="0" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="2336" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,6 +57,9 @@
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-11" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="983" y="285" width="44" height="134" as="geometry" />
+        </mxCell>
+        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="448" width="50" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
