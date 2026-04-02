@@ -11,16 +11,16 @@
           <mxGeometry x="284" y="285" width="44" height="134" as="geometry" />
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-3" value="个人中心" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="371" y="285" width="44" height="134" as="geometry" />
+          <mxGeometry x="368" y="285" width="44" height="134" as="geometry" />
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-4" value="登录" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="458" y="286" width="44" height="133" as="geometry" />
+          <mxGeometry x="455" y="286" width="44" height="133" as="geometry" />
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-5" value="来访管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="545" y="285" width="44" height="134" as="geometry" />
+          <mxGeometry x="542" y="285" width="44" height="134" as="geometry" />
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-6" value="入住管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="632" y="285" width="44" height="134" as="geometry" />
+          <mxGeometry x="629" y="285" width="44" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
