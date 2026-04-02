@@ -204,6 +204,14 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-65" target="7P9YLE2FsMM5Xcv8ukVH-70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-90" value="是" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P9YLE2FsMM5Xcv8ukVH-89">
+          <mxGeometry x="0.3165" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-65" value="是否为超级管理员" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="653.5" y="3149" width="127" height="58" as="geometry" />
         </mxCell>
