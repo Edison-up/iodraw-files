@@ -182,19 +182,6 @@
             <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-58" target="7P9YLE2FsMM5Xcv8ukVH-38">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="569" y="3072" />
-              <mxPoint x="569" y="2552" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-69" value="否" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="7P9YLE2FsMM5Xcv8ukVH-68">
-          <mxGeometry x="-0.0011" y="2" relative="1" as="geometry">
-            <mxPoint y="1" as="offset" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-58" value="判断是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="653.5" y="3043" width="127" height="58" as="geometry" />
         </mxCell>
