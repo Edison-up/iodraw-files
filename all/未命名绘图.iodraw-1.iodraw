@@ -43,13 +43,14 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-6" value="系统用户管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="234" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-8">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="539.7345973423548" y="609.0409175327848" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-8" target="7P9YLE2FsMM5Xcv8ukVH-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-8" value="入退管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="386" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-9" target="7P9YLE2FsMM5Xcv8ukVH-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-9" value="护理管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="537.5" y="515" width="120" height="60" as="geometry" />
@@ -59,6 +60,9 @@
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-11" value="服务管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="515" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-12" target="7P9YLE2FsMM5Xcv8ukVH-19">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-12" value="床位管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="689" y="515" width="120" height="60" as="geometry" />
