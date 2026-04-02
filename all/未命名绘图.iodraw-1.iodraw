@@ -119,8 +119,8 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-38" value="登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="1747" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-40" value="" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="810" y="1877" width="131" height="50" as="geometry" />
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-40" value="是否有账号" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="835.5" y="1875" width="131" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
