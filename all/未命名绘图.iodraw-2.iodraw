@@ -170,8 +170,14 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-56" value="任务状态" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-49" y="2023" width="128" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-61" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-58" target="KVttq13qiVhOrANyo3vE-60">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-58" value="主管查看和检查记录" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="2160" width="120" height="60" as="geometry" />
+          <mxGeometry x="-45" y="2109" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-60" value="检查是否合格" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-25" y="2239" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
