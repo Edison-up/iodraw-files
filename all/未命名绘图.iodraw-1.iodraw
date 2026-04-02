@@ -82,6 +82,9 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-29" value="是否结束操作" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="593.5" y="748" width="133" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-31" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="787" y="645" width="100" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
