@@ -177,7 +177,7 @@
           <mxGeometry x="-45" y="2109" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-60" value="检查是否合格" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-51.5" y="2197" width="133" height="80" as="geometry" />
+          <mxGeometry x="-51.5" y="2197" width="133" height="68" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
