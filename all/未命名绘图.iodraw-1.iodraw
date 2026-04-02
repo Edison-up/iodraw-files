@@ -131,7 +131,7 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-42" value="填写注册信息" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="1953" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-44" value="验证信息是否正确" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-44" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="841" y="2056" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
