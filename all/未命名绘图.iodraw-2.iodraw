@@ -134,8 +134,14 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-44" value="选择护理计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="1491" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-46" target="KVttq13qiVhOrANyo3vE-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-46" value="设置项目执行周期和频次" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-45" y="1583" width="120" height="60" as="geometry" />
+          <mxGeometry x="-65.5" y="1583" width="161" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-48" value="设置项目执行周期和频次" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-65.5" y="1723" width="161" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
