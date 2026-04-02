@@ -158,8 +158,8 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-52" value="护工执行计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-65.5" y="1847" width="161" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-54" value="护工执行计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-65.5" y="1987" width="161" height="60" as="geometry" />
+        <mxCell id="KVttq13qiVhOrANyo3vE-54" value="上传执行图片和记录执行情况" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-65.5" y="1935" width="161" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
