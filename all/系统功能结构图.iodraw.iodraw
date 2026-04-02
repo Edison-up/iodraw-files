@@ -29,7 +29,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-1" value="养老管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="561" y="136" width="180" height="40" as="geometry" />
+          <mxGeometry x="561" y="134" width="180" height="40" as="geometry" />
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-2" value="工作台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="284" y="285" width="44" height="134" as="geometry" />
@@ -57,12 +57,6 @@
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-11" value="权限管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="983" y="285" width="44" height="134" as="geometry" />
-        </mxCell>
-        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="364" y="157" as="sourcePoint" />
-            <mxPoint x="414" y="107" as="targetPoint" />
-          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
