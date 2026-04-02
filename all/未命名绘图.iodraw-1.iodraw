@@ -55,7 +55,7 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-12" value="床位管理" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="689" y="515" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-19" value="页面操作" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="640" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
