@@ -40,10 +40,10 @@
           <mxGeometry x="631" y="669" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-11" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="749" y="657" width="120" height="60" as="geometry" />
+          <mxGeometry x="841" y="515" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-12" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="737" y="515" width="120" height="60" as="geometry" />
+          <mxGeometry x="689" y="515" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
