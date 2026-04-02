@@ -25,8 +25,8 @@
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-8" value="在住管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
           <mxGeometry x="716" y="285.5" width="44" height="134" as="geometry" />
         </mxCell>
-        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-9" value="入住管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
-          <mxGeometry x="649" y="305" width="44" height="134" as="geometry" />
+        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-9" value="服务管理" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;horizontal=1;textDirection=vertical-rl;" vertex="1" parent="1">
+          <mxGeometry x="805" y="285" width="44" height="134" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
