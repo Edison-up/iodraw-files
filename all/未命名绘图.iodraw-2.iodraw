@@ -164,8 +164,14 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-54" value="上传执行图片和记录执行情况" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-65.5" y="1935" width="161" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-56" target="KVttq13qiVhOrANyo3vE-58">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-56" value="任务状态" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="-25" y="2065" width="80" height="80" as="geometry" />
+          <mxGeometry x="-49" y="2023" width="128" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-58" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
