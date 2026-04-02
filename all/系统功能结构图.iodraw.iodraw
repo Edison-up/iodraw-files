@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-1" value="养老管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="470" y="100" width="280" height="50" as="geometry" />
+          <mxGeometry x="470" y="100" width="180" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
