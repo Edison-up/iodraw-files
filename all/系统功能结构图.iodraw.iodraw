@@ -25,12 +25,9 @@
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M3Cbvp8Gj2KoEcMST0oY-1" target="M3Cbvp8Gj2KoEcMST0oY-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M3Cbvp8Gj2KoEcMST0oY-1" target="M3Cbvp8Gj2KoEcMST0oY-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-23" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="M3Cbvp8Gj2KoEcMST0oY-1">
+        <mxCell id="M3Cbvp8Gj2KoEcMST0oY-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="M3Cbvp8Gj2KoEcMST0oY-10">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="323.4285125732422" y="163.5714340209961" as="targetPoint" />
+            <mxPoint x="809" y="186" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="M3Cbvp8Gj2KoEcMST0oY-1" value="养老管理系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
