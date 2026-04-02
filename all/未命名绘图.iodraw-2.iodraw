@@ -203,9 +203,6 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-62" value="记录归档" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="2293" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-64" target="KVttq13qiVhOrANyo3vE-52">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-64" value="重新执行" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="2293" width="120" height="60" as="geometry" />
         </mxCell>
