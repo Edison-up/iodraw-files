@@ -188,7 +188,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-76" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVttq13qiVhOrANyo3vE-75">
+        <mxCell id="KVttq13qiVhOrANyo3vE-76" value="已关闭" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KVttq13qiVhOrANyo3vE-75">
           <mxGeometry x="-0.0162" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -221,6 +221,9 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-60" value="检查是否合格" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-51.5" y="2197" width="133" height="68" as="geometry" />
         </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-78" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-62" target="KVttq13qiVhOrANyo3vE-77">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-62" value="记录归档" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="2293" width="120" height="60" as="geometry" />
         </mxCell>
@@ -232,6 +235,9 @@
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-70" value="执行计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="163" y="2383" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-77" value="记录归档" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="2433" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
