@@ -34,8 +34,14 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-8" value="选择房间床位" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="531" y="-257" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-10" target="KVttq13qiVhOrANyo3vE-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-10" value="签订入住合同" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="531" y="-150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-12" value="缴纳费用" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="531" y="-43" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
