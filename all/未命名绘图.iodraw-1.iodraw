@@ -137,8 +137,8 @@
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-48" value="验证信息是否正确" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="833" y="2061" width="136" height="51" as="geometry" />
         </mxCell>
-        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-50" value="" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="841" y="2187.5" width="120" height="60" as="geometry" />
+        <mxCell id="7P9YLE2FsMM5Xcv8ukVH-50" value="填写账号密码" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="841" y="2160" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
