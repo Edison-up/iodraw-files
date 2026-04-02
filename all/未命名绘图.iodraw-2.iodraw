@@ -128,8 +128,14 @@
         <mxCell id="KVttq13qiVhOrANyo3vE-42" value="确定护理等级" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="1399" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KVttq13qiVhOrANyo3vE-44" value="确定护理等级" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="KVttq13qiVhOrANyo3vE-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="KVttq13qiVhOrANyo3vE-44" target="KVttq13qiVhOrANyo3vE-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-44" value="选择护理计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="-45" y="1491" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KVttq13qiVhOrANyo3vE-46" value="选择护理计划" style="whiteSpace=wrap;html=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="1583" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
