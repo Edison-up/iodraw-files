@@ -8,13 +8,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-1" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="541" y="-595" width="100" height="48" as="geometry" />
+          <mxGeometry x="541" y="-537" width="100" height="48" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-2" target="KVttq13qiVhOrANyo3vE-4" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-2" value="提出入住申请" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="531" y="-491" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-465" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-4" target="KVttq13qiVhOrANyo3vE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-6" value="确定护理级别" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="531" y="-308" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-8" target="KVttq13qiVhOrANyo3vE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
