@@ -44,7 +44,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-12" value="缴纳费用" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="530" y="-31" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-39" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-14" target="KVttq13qiVhOrANyo3vE-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
