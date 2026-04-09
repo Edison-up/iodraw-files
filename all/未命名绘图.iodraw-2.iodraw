@@ -50,7 +50,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-14" value="办理入住手续" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="530" y="54" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="49" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-16" target="KVttq13qiVhOrANyo3vE-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -75,7 +75,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-20" value="是否退住" style="rhombus;whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="526" y="278" width="130" height="63" as="geometry" />
+          <mxGeometry x="526" y="228" width="130" height="63" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-22" target="KVttq13qiVhOrANyo3vE-28" edge="1">
           <mxGeometry relative="1" as="geometry" />
