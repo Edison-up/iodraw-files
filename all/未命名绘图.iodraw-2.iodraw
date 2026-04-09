@@ -14,13 +14,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-2" value="提出入住申请" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="531" y="-510" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-491" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-4" target="KVttq13qiVhOrANyo3vE-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-4" value="评估老人状况" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="531" y="-413" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-381" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-6" target="KVttq13qiVhOrANyo3vE-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -99,7 +99,7 @@
           <mxGeometry x="531" y="602" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-32" value="退住" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="531" y="709" width="120" height="60" as="geometry" />
+          <mxGeometry x="530" y="683" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-34" value="结束" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
           <mxGeometry x="540" y="795" width="100" height="60" as="geometry" />
