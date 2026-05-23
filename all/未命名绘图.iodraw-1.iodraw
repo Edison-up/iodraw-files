@@ -111,10 +111,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-37" value="开始" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" parent="1" vertex="1">
-          <mxGeometry x="667" y="2421" width="100" height="60" as="geometry" />
+          <mxGeometry x="667" y="2694" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dL1Pb9DR3_TpYoC354tM-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-38" target="7P9YLE2FsMM5Xcv8ukVH-50">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-38" value="登录界面" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="657" y="2522" width="120" height="60" as="geometry" />
+          <mxGeometry x="657.5" y="2800" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="7P9YLE2FsMM5Xcv8ukVH-59" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="7P9YLE2FsMM5Xcv8ukVH-50" target="7P9YLE2FsMM5Xcv8ukVH-58" edge="1">
           <mxGeometry relative="1" as="geometry" />
