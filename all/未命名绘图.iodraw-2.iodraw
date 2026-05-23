@@ -20,19 +20,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-4" value="评估老人状况" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="340" y="-379" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-381" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-6" target="KVttq13qiVhOrANyo3vE-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-6" value="确定护理级别" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="598" y="-379" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-288" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-8" target="KVttq13qiVhOrANyo3vE-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-8" value="选择房间床位" style="whiteSpace=wrap;html=1;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="598" y="-253" width="120" height="60" as="geometry" />
+          <mxGeometry x="531" y="-211" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KVttq13qiVhOrANyo3vE-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="KVttq13qiVhOrANyo3vE-10" target="KVttq13qiVhOrANyo3vE-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
